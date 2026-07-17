@@ -1,20 +1,8 @@
-# Project Title
+# Assessing Snowmelt, Rainfall, and Soil Moisture Dynamics in the April 2026 Flood Event in Grand Rapids, Michigan
 <img align = "left" src="https://science.nasa.gov/wp-content/uploads/2023/11/sarp-patch.jpeg?w=1280&format=webp" alt="drawing" width="200"/>Here you can put a brief description (approximately 2-3 sentence) of your time with the [NASA Student Airborne Research Program (SARP)](https://science.nasa.gov/earth-science/early-career-opportunities/student-airborne-research-program/). You might mention the year of your program or that you flew on a NASA aircraft. You could also mention which group you were in as well as your graduate or faculty mentors. All this text is optional, but it's a good way to orient someone that comes to your repository wondering what it is they are looking at. A one sentence plain language description of your project can also be a great benefit.
 
 
 ## Abstract
-This is a great place to put your SARP presentation abstract.
+Spring rain-on-snow (ROS) events create a hydrological hazard by accelerating snowmelt and forcing runoff of increased precipitation. The runoff from snow and precipitation leads to flooding that causes damages to homes and roads and overwhelms the hydrologic system. The dynamic interaction between soil moisture, rainfall, and snowmelt during the flooding remains a challenge. As spring rains begin, the already saturated soil cannot absorb more water and increases surface runoff. This study investigates how interactions between snowmelt and rainfall impact the soil moisture along the Grand River in Grand Rapids, Michigan during the 2026 April flooding. A multi-sensor framework was used including Landsat-9 to track flooding extent and NASA’s Soil Moisture Active/Passive (SMAP) to monitor soil moisture fluctuations using soil moisture profile wetness ranging from 0 to 1, indicating relatively dry conditions to completely saturated soils. These datasets are correlated with USGS River Gauge data to determine peak river levels and NOAA weather data to track precipitation and snow. Combining satellite and in-situ data allows for deeper analysis of the impacts of high precipitation and snowfall runoff on soil moisture during flood events. Results show from January to April 2026, high precipitation of 17.52 inches and rapid snowmelt led to high soil wetness. The baseline soil wetness in January was 0.55 and rose to 0.87 in March due to the melting snow saturating the top soil and filling the ground storage capacity. Statistical analysis showed a positive correlation and a p-value < 0.05 between SMAP surface wetness and USGS river gauge levels, tracking the transition from landscape saturation to peak river heights. The April 2026 flood event was not a random weather event, rather the result of a saturated landscape unable to manage an influx of additional water. These findings provide a framework for integrating multi-satellite data into predictive flood models, ultimately increasing future climate resilience in the Midwest. 
 
-## About this template
-
-This template was generated as an example for how to format and upload project code to github. Remember that uploading your code can be an interative process - it doesn't have to be perfect the first time! First focus on getting your code online, then move onto progressively organizing the code. Once you reach the cleaning stage some things to look for include:
-
-- Make sure each chunk of code has a comment or markdown explanation of what is happening in the code
-- Delete code that isn't ever used. It can be hard (emotionally), but it helps the code you are using be more useful.
-- Break your project code into a few different notebooks by analysis step and name them starting with a number. For example: `01_preprocessing.ipynb`, `02_timeseries_analysis.ipynb` and `03_visualization.ipynb`.
-- Keep seperate folders for code and figures
-
-To get even deeper into code cleaning, check out the [Good Research Code Handbook](https://goodresearch.dev/index.html).
-
-Some notes:
 - If you are using satellite images as part of your analysis they may be too large to upload to github. In that case simply upload your code.
