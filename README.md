@@ -1,5 +1,5 @@
 # Assessing Snowmelt, Rainfall, and Soil Moisture Dynamics in the April 2026 Flood Event in Grand Rapids, Michigan
-<img align = "left" src="https://science.nasa.gov/wp-content/uploads/2023/11/sarp-patch.jpeg?w=1280&format=webp" alt="drawing" width="200"/>During my internship experience I spent two weeks in Houston, Texas where I had the opportunity to fly on the LaRC G-III and twice on the JSC GV where I learned about airborne flight campagins. During these two weeks I also learned about soil moisture from research scientists at Texas A&M and the University of Texas, Austin. I took what I learned to San Diego, California where I worked with my mentors Mashalle Olomi and Dr. Mehmet Kurum 
+<img align = "left" src="https://science.nasa.gov/wp-content/uploads/2023/11/sarp-patch.jpeg?w=1280&format=webp" alt="drawing" width="200"/>During my internship experience I spent two weeks in Houston, Texas where I had the opportunity to fly on the LaRC G-III and twice on the JSC GV where I learned about airborne flight campagins. During these two weeks I also learned about soil moisture from research scientists at Texas A&M and the University of Texas, Austin. I took what I learned in Texas to San Diego, California where I worked with my mentors Mashalle Olomi and Dr. Mehmet Kurum on my research project. 
 
 
 ## Abstract
